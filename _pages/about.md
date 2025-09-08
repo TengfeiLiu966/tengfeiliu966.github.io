@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an assistant professor at Beijing University of Posts and Telecommunications. Before that, I was a postdoc research fellow with Department of Computer Science and Technology, Tsinghua University from 2021 to 2023. I received the PhD degree at Beijing Institute of Technology in 2021, and received the bachelor degree at Beijing Information Science & Technology University, in 2016. 
+I am a lecturer at Beijing University of Technology. Before that, I received my Ph.D. degree from Beijing University of Technology in June 2025, where I was supervised by Prof. [Yongli Hu](https://ieeexplore.ieee.org/author/37420507000) (胡永利). From February 2024 to February 2025, I was a visiting student at the University of Technology Sydney (UTS), working under the supervision of Prof. [Xiaojun Chang](https://ieeexplore.ieee.org/author/37085779024)([常晓军](https://www.xiaojun.ai/)) and Prof. [Hanyu Gu](https://profiles.uts.edu.au/Hanyu.Gu).
 
-My research interests include AIGC-powered datamining, Safety on LLM, parameter-efficent finetune on LLM, graph representation learning, recommendation systems, etc.
-For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=pAfNfScAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interests include Radiology Report Generation, Long Document Understanding, Zero-shot Learning, Multimodal Representation, etc.
+For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=Xt4l3tEAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 <!-- https://img.shields.io/badge/Google%20Scholar-Yifan%20Zhu-blue?logo=Google%20Scholar -->
 <!-- https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhuyf8899%2Fzhuyf8899.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations -->

@@ -125,19 +125,18 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - *2025.07 - (now)*, Lecturer at School of Information Science and Technology, Beijing University of Technology, Beijing, China. 
 - *2024.02 - 2025.02*, Visiting Student at University of Technology Sydney (UTS), Sydney, Australia. (Supervisor: [Prof. xiaojun Chang](https://ieeexplore.ieee.org/author/37085779024))
-- *2018.09 – 2025.06*, Ph.D. candidate (Combined Master and Ph.D. Program)  
-  School of Information Science and Technology, Beijing University of Technology, Beijing, China. (Master’s Supervisor: [Prof. Yanfeng Sun](https://sist.bjut.edu.cn/info/1443/4066.htm); Ph.D. Supervisor: [Prof. Yongli Hu](https://sist.bjut.edu.cn/info/1443/4095.htm))
+- *2018.09 – 2025.06*, Ph.D. candidate (Combined Master and Ph.D. Program) at School of Information Science and Technology, Beijing University of Technology, Beijing, China. (Master’s Supervisor: [Prof. Yanfeng Sun](https://sist.bjut.edu.cn/info/1443/4066.htm); Ph.D. Supervisor: [Prof. Yongli Hu](https://sist.bjut.edu.cn/info/1443/4095.htm))
 - *2014.09 - 2018.06*, B.E. at Automation, Henan Polytechnic University, Henan, China. 
 
 # 🎤 Lecture, Talk, and Services
 <span class='anchor' id='-social'></span>
-
+<!--
 ## Lectures
 - *2025.02-2025.07*, 大数据技术与应用(本科生)
 - *2024.09-2025.01*, 大数据与数字经济前沿应用(研究生)
 - *2024.06*, 推荐系统基础(继续教育生)
-
-
+-->
+<!--
 ## Editor Service
 
 - *2025.03 - present*, ***Associate Editor*** of [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing)
@@ -154,16 +153,17 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - Executive member of [CCF Expert Committee on Big Data](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TFBD/)
 - Executive member of [CCF Data Governance Development Committee](https://www.ccf.org.cn/sjzlfzwyh/)
-
+-->
 ## Program Committee & Reviewer Service
-
+<!--
 - ***Area Chair*** of ICLR'26, NeurIPS'25, CCKS'25
 - ***Local Chair*** of CAIBDA'25
 - ***Track Chair*** of BESC'25
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
-- ***Program Committee Member*** of KDD'25-26, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24, CVPR'25, ICCV'25, MM'24-25, AAAI'22-26, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25, PRCV'25
-- ***Reviewer*** of IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
-
+-->
+- ***Program Committee Member*** of AAAI'25-26
+- ***Reviewer*** of IEEE TNNLS, IEEE TCSVT, IEEE TMM, IEEE TIST, IEEE TII, CVPR, WWW, ACM MM.
+<!--
 # Students (with post-graduation position)
 <span class='anchor' id='-students'></span>
 
@@ -183,6 +183,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ### Class of 2024
 - ***Master students***: Qingzhi Yu, Huiqiang Rong, Guanting Chen
+-->
 - ***Undergraduate students***: Yihao Wang (visiting student from BISTU), Xinyu Mu (visiting student from BISTU)
 
 ### Class before 2023

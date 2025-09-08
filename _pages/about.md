@@ -72,40 +72,14 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 ## 2025
 
 - ```IEEE TII2025``` Junfei Yi, ***Tengfei Liu***, Jianxu Mao, Yaonan Wang, Hui Zhang, He Xie, Hang Zhong, Xiaojun Chang. ***Toward Efficient Power Scene Detection via Topology-Preserved Knowledge Distillation***. IEEE Transactions on Industrial Informatics (IEEE TII'25), 2025. [Paper](https://ieeexplore.ieee.org/abstract/document/11123553)
+
+- ```AAAI 2025``` ***Tengfei Liu***, Jiapu Wang, Yongli Hu, Mingjie Li, Junfei Yi, Xiaojun Chang, Junbin Gao, Baocai Yin. ***HC-LLM: Historical-constrained Large Language Models for Radiology Report Generation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32596)
   
-- ```EMNLP 2025``` Jun Zhang, Haihong E, Tianyi Hu, ***Yifan Zhu***, Meina Song, Haoran Luo. ***Complex Numerical Reasoning with Numerical Semantic Pre-training Framework***. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25), 2025. [Paper]([https://openreview.net/pdf?id=1epaSm9QRs](https://ieeexplore.ieee.org/abstract/document/11123553)) 
+- ```IEEE TMM 2025``` ***Tengfei Liu***, Yongli Hu, Junbin Gao, Yanfeng Sun, Baocai Yin. ***Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification***. IEEE Transactions on Multimedia (IEEE TMM'25) (IEEE TMM'25), 2025. [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Xt4l3tEAAAAJ&citation_for_view=Xt4l3tEAAAAJ:eQOLeE2rZwMC) 
 
-- ```EMNLP 2025``` Kechen Jiao, Zhirui Fang, Jiahao Liu, Bei Li, Qifan Wang, Xinyu Liu, Junhao Ruan, Zhongjian Qiao, ***Yifan Zhu***, Yaxin Xu, Jingang Wang, Xiu Li. ***Complex Numerical Reasoning with Numerical Semantic Pre-training Framework***. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25), 2025. [Paper (To be released)](#)
+- ```IEEE TCSVT 2025``` ***Tengfei Liu***, Yongli Hu, Mingjie Li, Junfei Yi, Xiaojun Chang, Junbin Gao, Baocai Yin. ***Tackling Real-World Complexity: Hierarchical Modeling and Dynamic Prompting for Multimodal Long Document Classification***. IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT'25), 2025. [Paper](https://ieeexplore.ieee.org/abstract/document/10869505).
 
-- ```MM 2025``` Guoxin Zhang, Zhonghong Ou, Kaiwen Xue, Jiangfeng Sun, Siyuan Yao, Yiran Shen, Meina Song,  ***Yifan Zhu***. ***DGFSD: Bridging the Gap between Dense and Sparse for FullySparse 3D Object Detection***. In ACM Multimedia, 2025. [Paper (To be released)](#) [Code](https://github.com/Raiden-cn/DGFSD)
-
-- ```IEEE TKDE``` Gen Shi, ***Yifan Zhu***, Wenjing Liu, Quanmin Yao, Xuesong Li. ***Heterogeneous Graph-Based Multimodal Brain Network Learning***. IEEE Transactions on Knowledge and Data Engineering, 2025. [Paper](https://ieeexplore.ieee.org/document/11003156) [Code](https://github.com/shigen97/HeBrainGNN)
-
-- ```ICML 2025``` Haoran Luo, Haihong E, Yikai Guo, Qika Lin, Xiaobao Wu, Xinyu Mu, Wenhao Liu, Meina Song, ***Yifan Zhu***, Luu Anh Tuan. ***KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search***. In Proceedings of the International Conference on Machine Learning (ICML'25), 2025. [Paper](https://arxiv.org/abs/2501.18922) [Code](https://github.com/BUPT-CAD-Lab/KBQA-o1)
-
-- ```ICML 2025``` Mengyang Sun, Yihao Wang, Tao Feng, Dan Zhang, ***Yifan Zhu***, Jie Tang. ***A Stronger Mixture of Low-rank Experts for Fine-Tuning Foundation Models***. In Proceedings of the International Conference on Machine Learning (ICML'25), 2025. [Paper](https://arxiv.org/abs/2502.15828) [Code](https://github.com/THUDM/MoELoRA_Riemannian)
-
-- ```IJCAI 2025``` Jiangfeng Sun, Kaiwen Xue, Qika Lin, Yufei Qiao, ***Yifan Zhu***, Zhonghong Ou, Meina Song. ***Towards Recognizing Spatial-temporal Collaboration of EEG Phase Brain Networks for Emotion Understanding***. In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI'25), 2025. [Paper (To be released)](#)  [Code](https://github.com/BUPT-CAD-Lab/EEGBrainNetwork)
-
-- ```IEEE TIP``` Qika Lin, Kai He, ***Yifan Zhu***, Fangzhi Xu, Erik Cambria, Mengling Feng. ***Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA***. IEEE Transactions on Image Processing, 2025. [Paper](https://ieeexplore.ieee.org/document/10964089)
-
-- ```WWW 2025``` Yu Feng, Yangliao Geng, ***Yifan Zhu***, Zongfu Han, Xie Yu, Kaiwen Xue, Haoran Luo, Mengyang Sun, Guangwei Zhang, Meina Song. ***PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning***. In Proceedings of the Web Conference (WWW'25), 2025. [Paper](https://arxiv.org/abs/2502.00354) [Code](https://github.com/BUPT-CAD-Lab/PM-MOE)
-
-- ```ICLR 2025``` Ningyuan Li, Haihong E, Tianyu Yao, Tianyi Hu, Yuhan Li, Haoran Luo, Meina Song. ***Yifan Zhu***, ***INFER: A Neural-symbolic Model For Extrapolation Reasoning on Temporal Knowledge Graph***. In Proceedings of the International Conference on Learning Representations (ICLR'25), 2025. [Paper](https://openreview.net/pdf?id=ExHUtB2vnz)
-
-- ```AAAI 2025``` Zhonghong Ou, Xiao Zhang, ***Yifan Zhu***, Shuai Lv, Jiahao Liu, Tu Ao. ***LS-TGNN: Long and Short-Term Temporal Graph Neural Network for Session-Based Recommendation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33354)
-
-- ```AAAI 2025``` Shuai Lyu, Zijing Tian, Zhonghong Ou, ***Yifan Zhu***, Xiao Zhang, HaQiankun, Haoran Luo, Meina Song. ***TSVC: Tripartite Learning with Semantic Variation Consistency for Robust Image-Text Retrieval***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34121)
-
-- ```AAAI 2025``` Wenwen Gong, Yangliao Geng, Dan Zhang, ***Yifan Zhu***, Xiaolong Xu, Haolong Xiang, Amin Beheshti, Xuyun Zhang, Lianyong Qi. ***DivGCL: A Graph Contrastive Learning Model for Diverse Recommendation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025, 6(2025): 82-92. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33852) [Code](https://github.com/submission-6077/DivGCL/tree/main)
-
-- ```AI Open``` Zongfu Han, Yu Feng, ***Yifan Zhu***, Zhen Tian, Fangyu Hao, Meina Song. ***FedGPA: Federated Learning with Global Personalized Aggregation***. AI Open, 2025. [Paper](https://www.sciencedirect.com/science/article/pii/S2666651025000063/pdfft?md5=4c47cbd49280b9b7ebb4f813ed5de38f&pid=1-s2.0-S2666651025000063-main.pdf) [Code](https://github.com/BUPT-CAD-Lab/fedgpa2025)
-
-- ```IP&M``` Zijing Tian, Zhonghong Ou, ***Yifan Zhu***, Shuai Lyu, Hanyu Zhang, Jinghua Xiao, Meina Song. ***Multi-SEA: Multi-stage Semantic Enhancement and Aggregation for image–text retrieval***. Information Processing and Management, 2025, 62(5):104165. [Paper](https://authors.elsevier.com/c/1kx2j15hYd-jbc) 
-
-- ```IEEE TCE``` Kaize Shi, Xueping Peng, ***Yifan Zhu***, Hui He, Kun Yi, Zhendong Niu. ***Multi-KGS: Generating Social Network-Based Meteorological Decision Reports Fusing With Multiple Knowledge***. IEEE Transactions on Consumer Electronics, 2025. [Paper](https://ieeexplore.ieee.org/document/11104825) 
-
-- ``INFFUS`` Qika Lin, ***Yifan Zhu***, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. ***Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey***. Information Fusion, 2025, 116: 102795. [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524005736)
+- ```IEEE TII 2025``` Junfei Yi, Jianxu Mao, Hui Zhang, Yurong Chen, ***Tengfei Liu***, Kai Zeng, He Xie, Yaonan Wang. ***Balancing Accuracy and Efficiency With a Multiscale Uncertainty-Aware Knowledge-Based Network for Transmission Line Inspection***. IEEE Transactions on Industrial Informatics (IEEE TII'25), 2025. [Paper](https://ieeexplore.ieee.org/abstract/document/10841846/).
 
 ## 2024
 

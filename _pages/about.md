@@ -71,7 +71,9 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2025
 
-- ```EMNLP 2025``` Jun Zhang, Haihong E, Tianyi Hu, ***Yifan Zhu***, Meina Song, Haoran Luo. ***Complex Numerical Reasoning with Numerical Semantic Pre-training Framework***. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25), 2025. [Paper](https://openreview.net/pdf?id=1epaSm9QRs) 
+- ```IEEE TII2025``` Junfei Yi, ***Tengfei Liu***, Jianxu Mao, Yaonan Wang, Hui Zhang, He Xie, Hang Zhong, Xiaojun Chang. ***Toward Efficient Power Scene Detection via Topology-Preserved Knowledge Distillation***. IEEE Transactions on Industrial Informatics (IEEE TII'25), 2025. [Paper](https://ieeexplore.ieee.org/abstract/document/11123553)
+  
+- ```EMNLP 2025``` Jun Zhang, Haihong E, Tianyi Hu, ***Yifan Zhu***, Meina Song, Haoran Luo. ***Complex Numerical Reasoning with Numerical Semantic Pre-training Framework***. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25), 2025. [Paper]([https://openreview.net/pdf?id=1epaSm9QRs](https://ieeexplore.ieee.org/abstract/document/11123553)) 
 
 - ```EMNLP 2025``` Kechen Jiao, Zhirui Fang, Jiahao Liu, Bei Li, Qifan Wang, Xinyu Liu, Junhao Ruan, Zhongjian Qiao, ***Yifan Zhu***, Yaxin Xu, Jingang Wang, Xiu Li. ***Complex Numerical Reasoning with Numerical Semantic Pre-training Framework***. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25), 2025. [Paper (To be released)](#)
 

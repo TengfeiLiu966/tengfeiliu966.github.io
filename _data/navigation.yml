@@ -18,5 +18,5 @@ main:
   - title: "Lecture, Talk, and Services"
     url: "/#-social"
 
-  - title: "Students"
-    url: "/#-students"
+  # - title: "Students"
+  #   url: "/#-students"

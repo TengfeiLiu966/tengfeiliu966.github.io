@@ -183,9 +183,9 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ### Class of 2024
 - ***Master students***: Qingzhi Yu, Huiqiang Rong, Guanting Chen
--->
 - ***Undergraduate students***: Yihao Wang (visiting student from BISTU), Xinyu Mu (visiting student from BISTU)
 
 ### Class before 2023
 - ***PhD students***: Yu Feng (Co-advised with Prof. Meina Song)-Scientist@China Mobile, Jiangfeng Sun (Co-advised with Prof. Meina Song)
 - ***Master students***: Gen Shi (Co-advised with Prof. Xuesong Li)-PhD@BUAA, Weibin Liao (Co-advised with Prof. Xuesong Li)-PhD@PKU
+-->

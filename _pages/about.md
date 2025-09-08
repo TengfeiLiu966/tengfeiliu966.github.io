@@ -130,62 +130,10 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 # 🎤 Lecture, Talk, and Services
 <span class='anchor' id='-social'></span>
-<!--
-## Lectures
-- *2025.02-2025.07*, 大数据技术与应用(本科生)
-- *2024.09-2025.01*, 大数据与数字经济前沿应用(研究生)
-- *2024.06*, 推荐系统基础(继续教育生)
--->
-<!--
-## Editor Service
 
-- *2025.03 - present*, ***Associate Editor*** of [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing)
-- *2023.12 - present*, ***Editorial Board Member*** of [Information Fusion](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board)
-- *2025.01 - present*, ***Assistant Editorial Board Member*** of the [CAAI Transactions on Intelligent Systems](https://tis.hrbeu.edu.cn/Corp/3300.aspx)
-- *2025.07 - 2026.09*. ***Guest Editor*** of [IEEE Transactions on Computational Social Systems](https://www.ieeesmc.org/wp-content/uploads/2025/06/GENERA1.pdf)
-- *2023.11 - 2025.06*. ***Guest Editor*** of [Information Fusion](https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion)
-- *2025.01 - 2025.12*, ***Guest Editor*** of [Applied Sciences](https://www.mdpi.com/journal/applsci/special_issues/2A91X6650R)
-- *2023.10 - 2024.06*, ***Guest Editor*** of [Electronics](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7)
-- *2022.03 - 2022.12*, ***Guest Editor*** of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/si/149297/)
-- *2021.10 - 2022.02*, ***Guest Editor*** of [International Journal of Distributed Sensor Networks](https://journals.sagepub.com/page/dsn/collections/special-issues/intelligent-sensing-fusion-and-processing-in-cyber-physical-social-systems)
+## Talk
+- *2024.06*, 《从ChatGPT到农业大模型：大模型及其在农业领域的前沿应用介绍》,中国农业大学.
 
-## Social Service
-
-- Executive member of [CCF Expert Committee on Big Data](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TFBD/)
-- Executive member of [CCF Data Governance Development Committee](https://www.ccf.org.cn/sjzlfzwyh/)
--->
 ## Program Committee & Reviewer Service
-<!--
-- ***Area Chair*** of ICLR'26, NeurIPS'25, CCKS'25
-- ***Local Chair*** of CAIBDA'25
-- ***Track Chair*** of BESC'25
-- ***Session Chair*** of IEEE-ISPA'19, BESC'24.
--->
 - ***Program Committee Member*** of AAAI'25-26
 - ***Reviewer*** of IEEE TNNLS, IEEE TCSVT, IEEE TMM, IEEE TIST, IEEE TII, CVPR, WWW, ACM MM.
-<!--
-# Students (with post-graduation position)
-<span class='anchor' id='-students'></span>
-
-## Messages for applying students
-- I am looking for ***self-motivated and team-worked*** students to work on the following topics: 
-  - **LoRA and Mixture of Experts**
-  - **Graph-based recommendation and data mining**
-  - **Graph-based social network analysis**
-  - **Graph-based brain activity analysis for medical use**
-- However, I received a lot of applications, and I am sorry that I cannot reply to all of them. Thus, I will set a priority queue to whom ***really cares aboout*** his/her application. To be specific, the applicant who place the number ```$709394``` ahead of the application email title will be given the priority of consideration.
-- 我们欢迎对图神经网络、推荐系统、基础模型微调、脑科学等领域感兴趣，且有着自律与团队意识的同学加入。遗憾的是，我们每次会收到大量的申请，无法一一回复。因此，为了照顾真正想来而非刷楼的申请，我们将优先考虑在申请邮件标题前面添加了字符```$709394```的同学（例如：$709394-研究生申请-张三-克莱登大学）。
-
-
-### Class of 2025
-- ***Master students***: Can Lin, Xu Zeng
-- ***Undergraduate students***: Xingmin Hu (visiting student from CUFE)
-
-### Class of 2024
-- ***Master students***: Qingzhi Yu, Huiqiang Rong, Guanting Chen
-- ***Undergraduate students***: Yihao Wang (visiting student from BISTU), Xinyu Mu (visiting student from BISTU)
-
-### Class before 2023
-- ***PhD students***: Yu Feng (Co-advised with Prof. Meina Song)-Scientist@China Mobile, Jiangfeng Sun (Co-advised with Prof. Meina Song)
-- ***Master students***: Gen Shi (Co-advised with Prof. Xuesong Li)-PhD@BUAA, Weibin Liao (Co-advised with Prof. Xuesong Li)-PhD@PKU
--->

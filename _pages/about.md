@@ -83,20 +83,17 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2024
 
-- ``NeurIPS 2024`` Haoran Luo, Haihong E, Yuhao Yang, Tianyu Yao, Yikai Guo, Zichen Tang, Wentai Zhang, Shiyao Peng, Kaiyang Wan, Meina Song, Wei Lin, ***Yifan Zhu***, Anh Tuan Luu. ***Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction***. In Advances in Neural Information Processing Systems (NeurIPS'24), 2024. [Paper](https://arxiv.org/pdf/2310.05185) [Code](https://github.com/LHRLAB/Text2NKG)
+- ``Neural Networks 2024`` ***Tengfei Liu***, Yongli Hu, Junbin Gao, Jiapu Wang, Yanfeng Sun, Baocai Yin. ***Multi-modal long document classification based on Hierarchical Prompt and Multi-modal Transformer***. Neural Networks (Neural Networks'24), 2024. [Paper](https://www.sciencedirect.com/science/article/pii/S0893608024002466)
 
-- ``ACM TOIS`` Dan Zhang, Shaojie Zhen, ***Yifan Zhu***, Huihui Yuan, Jibing Gong, Jie Tang.  ***MCAP: Low-Pass GNNs with Matrix Completion for Academic Recommendations***. ACM Transactions on Information Systems, 2024. [Paper](https://dl.acm.org/doi/10.1145/3698193) [Data](https://github.com/THUDM/MCAP) 
+- ``Arxiv 2024`` Junfei Yi, Jianxu Mao, ***Tengfei Liu***, Mingjie Li, Hanyu Gu, Hui Zhang, Xiaojun Chang, Yaonan Wang.  ***Teaching with uncertainty: Unleashing the potential of knowledge distillation in object detection***. Arxiv, 2024. [Paper](https://arxiv.org/abs/2406.06999) 
 
-- ``MM 2024`` Yu Feng, Zhen Tian, ***Yifan Zhu***, Zongfu Han, Haoran Luo, Guangwei Zhang, Meina Song. ***CP-Prompt: Composition-Based Cross-modal Prompting for Domain-Incremental Continual Learning***. In ACM Multimedia, 2024. [Paper](http://arxiv.org/abs/2407.21043) [Code](https://github.com/dannis97500/CP_Prompt)
+- ``IEEE TCYB 2024`` Jiapu Wang, Boyue Wang, Junbin Gao, Shirui Pan, ***Tengfei Liu***, Baocai Yin, Wen Gao. ***Made: Multicurvature adaptive embedding for temporal knowledge graph completion***. IEEE Transactions on Cybernetics (IEEE TCYB'2024). [Paper](https://ieeexplore.ieee.org/abstract/document/10535899)
 
-- ``ACM TOIS`` Weibin Liao, ***Yifan Zhu***, Yanyan Li, Zhonghong Ou, Xuesong Li.  ***RevGNN: Negative Sampling Enhanced Contrastive Graph Learning for Academic Reviewer Recommendation***. ACM Transactions on Information Systems, 2024, 43(1):168. [Paper](https://arxiv.org/pdf/2407.20684) [Data](https://www.aminer.cn/data/) 
+- ``IEEE/ACM TASLP 2024`` ***Tengfei Liu***, Yongli Hu, Junbin Gao, Yanfeng Sun, Baocai Yin  ***Hierarchical Multi-Granularity Interaction Graph Convolutional Network for Long Document Classification***. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024, 32:1762-1775. [Paper](https://ieeexplore.ieee.org/abstract/document/10452857) 
 
-- ``KDD 2024`` Fanjin Zhang, Shijie Shi, ***Yifan Zhu***, Bo Chen, Yukuo Cen, Jifan Yu, Yelin Chen, Lulu Wang, Qingfei Zhao, Yuqing Cheng, Tianyi Han, Yuwei An, Dan Zhang, Weng Lam Tam, Kun Cao, Yunhe Pang, Xinyu Guan, Huihui Yuan, Jian Song, XiaoYan Li, Yuxiao Dong, Jie Tang.  ***OAG-Bench: A Human-Curated Benchmark for Academic Graph Mining***. In 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'24), 2024. [Paper](https://arxiv.org/pdf/2402.15810) [Data](https://www.aminer.cn/data/) 
+- ``IEEE TCSVT 2024`` ***Tengfei Liu***, Yongli Hu, Junbin Gao, Yanfeng Sun, Baocai Yin.  ***Hierarchical multi-modal prompting transformer for multi-modal long document classification***. IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT'24), 2024. [Paper](https://ieeexplore.ieee.org/abstract/document/10439279) 
 
-- ``ACL 2024`` Haoran Luo, Haihong E, Zichen Tang, Shiyao Peng, Yikai Guo, Wentai Zhang, Chenghao Ma, Guanting Dong, Meina Song, Wei Lin, ***Yifan Zhu***, Luu Anh Tuan. ***ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models***. In Fingdings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24), 2024. [Paper](https://arxiv.org/pdf/2310.08975) [Code](https://github.com/LHRLAB/ChatKBQA) 
-
-- ```IEEE TCSS``` Gen Shi, Yuxiang Yao, ***Yifan Zhu***, Xinyue Lin, Lanxin Ji, Wenjin Liu, Xuesong Li. ***Contrastive Hierarchical Augmentation Learning for Modeling Cognitive and Multimodal Brain Network***. IEEE Transactions on Computational Social Systems, 2024. [Paper](https://doi.org/10.1109/TCSS.2024.3402328) [Code](https://github.com/LeifYaoYuXiang/BrainNetworkCL) 
-
+- ``ACM TKDD 2024`` ***Tengfei Liu***, Yongli Hu, Junbin Gao, Yanfeng Sun, Baocai Yin. ***Cross-modal Multiple Granularity Interactive Fusion Network for Long Document Classification***. ACM Transactions on Knowledge Discovery from Data (ACM TKDD'24), 2024. [Paper](https://dl.acm.org/doi/abs/10.1145/3631711) 
 
 ## 2023
 

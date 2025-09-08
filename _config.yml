@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yifan Zhu"
-description              : "IEEE Member <br/>CGS Senior Member <br/>CCF Member <br/> CAAI Member <br/><br/> Room 821, Science Buliding, <br/> No.10 Xitucheng Rd. <br/> Beijing, China"
-repository               : "zhuyf8899/zhuyf8899.github.io"
+title                    : "Tengfei Liu"
+description              : "CSIG Member <br/> CCF Member <br/> CAAI Member <br/><br/> Room 807, Science Buliding, <br/> No.100 Pingleyuan <br/> Beijing, China"
+repository               : "TengfeiLiu966/tengfeiliu966.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,31 +21,31 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yifan Zhu <br/> 朱一凡"
-  avatar           : "images/zhuyifan-avator.png"
-  bio              : "Assistant Professor @ BUPT"
+  name             : "Tengfei Liu <br/> 刘腾飞"
+  avatar           : "images/tengfei.jpg"
+  bio              : "Lecturer @ BJUT"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=pAfNfScAAAAJ"
-  email            : "yifan_zhu@bupt.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Yifan-Zhu-7"
-  uri              : "https://teacher.bupt.edu.cn/zhuyifan/zh_CN/index.htm"
+  googlescholar    : "https://scholar.google.com/citations?user=Xt4l3tEAAAAJ&hl=zh-CN"
+  email            : "tfliu@bjut.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Tengfei-Liu-22"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhuyf8899"
+  github           : "TengfeiLiu966"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "zhuyf8899"
-  dblp             : "https://dblp.uni-trier.de/pid/94/1593-1.html"
-  orcid            : "https://orcid.org/0000-0002-7695-1633"
+  dblp             : "https://dblp.uni-trier.de/pid/64/8133.html"
+  orcid            : "http://orcid.org/0000-0002-2739-5220"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

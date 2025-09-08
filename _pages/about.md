@@ -116,17 +116,18 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🎖 Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
 
-- *2024.12* First Prize of Safety Science and Technology Advancement Award by China Association of Work Safety [(中国安全生产协会安全科学科技进步一等奖)](https://www.china-safety.org.cn/api/file/20241218/1869300991283826688.pdf).
-- *2023.10* Best Student Paper Award, ECML-PKDD 2023.
+- *2024.10* National Scholarship for Doctoral Students (China) 2024.
+- *2020.10* First Prize in the Mathematical Contest in Modeling (MCM), United States 2020.
 
 # 🔍 Educations & Work Experiences
 
 <span class='anchor' id='-educations'></span>
 
-- *2023.09 - (now)*, Assistant professor at School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China. 
-- *2021.10 - 2023.09*, Postdoc research fellow at Department of Computer Science and Technology, Tsinghua University, Beijing, China. (Supervisor: [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) )
-- *2016.09 - 2021.06*, Ph.D. at School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China. (Supervisor: [Prof. Zhendong Niu](https://cs.bit.edu.cn/szdw/jsml/js/nzd/index.htm))
-- *2012.09 - 2016.06*, B.E. at Computer School, Beijing Information Science & Technology University, Beijing, China. 
+- *2025.07 - (now)*, Lecturer at School of Information Science and Technology, Beijing University of Technology, Beijing, China. 
+- *2024.02 - 2025.02*, Visiting Student at University of Technology Sydney (UTS), Sydney, Australia. (Supervisor: [Prof. xiaojun Chang](https://ieeexplore.ieee.org/author/37085779024))
+- *2018.09 – 2025.06*, Ph.D. candidate (Combined Master and Ph.D. Program)  
+  School of Information Science and Technology, Beijing University of Technology, Beijing, China. (Master’s Supervisor: [Prof. Yanfeng Sun](https://sist.bjut.edu.cn/info/1443/4066.htm); Ph.D. Supervisor: [Prof. Yongli Hu](https://sist.bjut.edu.cn/info/1443/4095.htm))
+- *2014.09 - 2018.06*, B.E. at Automation, Henan Polytechnic University, Henan, China. 
 
 # 🎤 Lecture, Talk, and Services
 <span class='anchor' id='-social'></span>

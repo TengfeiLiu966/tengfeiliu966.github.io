@@ -131,8 +131,8 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🎤 Lecture, Talk, and Services
 <span class='anchor' id='-social'></span>
 
-## Talk
-- *2024.06*, 《从ChatGPT到农业大模型：大模型及其在农业领域的前沿应用介绍》,中国农业大学.
+## Lecture & Talk
+- *2024.06*, 《从ChatGPT到农业大模型：大模型及其在农业领域的前沿应用介绍》 中国农业大学.
 
 ## Program Committee & Reviewer Service
 - ***Program Committee Member*** of AAAI'25-26

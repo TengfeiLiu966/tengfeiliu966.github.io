@@ -117,6 +117,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 <span class='anchor' id='-honors-and-awards'></span>
 
 - *2024.10* National Scholarship for Doctoral Students (China) 2024.
+- *2023.07* CSC Scholarship (China Scholarship Council) 2023.
 - *2020.10* First Prize in the Mathematical Contest in Modeling (MCM), United States 2020.
 
 # 🔍 Educations & Work Experiences

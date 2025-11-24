@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a lecturer at Beijing University of Technology. Before that, I received my Ph.D. degree from Beijing University of Technology in June 2025, where I was supervised by Prof. [Yongli Hu](https://ieeexplore.ieee.org/author/37420507000) (胡永利), and conducted my research in Prof. [Baocai Yin](https://www.bjut.edu.cn/info/1059/1568.htm) [尹宝才（杰青）]'s team. From February 2024 to February 2025, I was a visiting student at the University of Technology Sydney (UTS), working under the supervision of Prof. [Xiaojun Chang](https://ieeexplore.ieee.org/author/37085779024)([常晓军（长江讲席）](https://www.xiaojun.ai/)) and Prof. [Hanyu Gu](https://profiles.uts.edu.au/Hanyu.Gu).
+I am a lecturer at Beijing University of Technology. Before that, I received my Ph.D. degree from Beijing University of Technology in June 2025, where I was supervised by Prof. [Yongli Hu](https://ieeexplore.ieee.org/author/37420507000) (胡永利), and conducted my research in Prof. [Baocai Yin](https://www.bjut.edu.cn/info/1059/1568.htm) (尹宝才(杰青))'s team. From February 2024 to February 2025, I was a visiting student at the University of Technology Sydney (UTS), working under the supervision of Prof. [Xiaojun Chang](https://ieeexplore.ieee.org/author/37085779024)([常晓军(长江讲席)](https://www.xiaojun.ai/)) and Prof. [Hanyu Gu](https://profiles.uts.edu.au/Hanyu.Gu).
 
 My research interests include Multimodal LLM, Radiology Report Generation, Long Document Understanding, Zero-shot Learning, etc.
 For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=Xt4l3tEAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -136,5 +136,5 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - *2024.06*, 《从ChatGPT到农业大模型：大模型及其在农业领域的前沿应用介绍》 中国农业大学.
 
 ## Program Committee & Reviewer Service
-- ***Program Committee Member*** of AAAI'25-26
+- ***Program Committee Member*** of AAAI'25-26, CVPR2026, WWW2026, IROS2026
 - ***Reviewer*** of IEEE TNNLS, IEEE TCSVT, IEEE TMM, IEEE TIST, IEEE TII, CVPR, WWW, ACM MM.

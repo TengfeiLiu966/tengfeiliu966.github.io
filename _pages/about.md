@@ -135,8 +135,9 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 <span class='anchor' id='-social'></span>
 
 ## Lecture & Talk
+- *2025.12*, 《从概念到应用：人工智能技术浅析与团队成果汇报》 中国农业科学院.
 - *2024.06*, 《从ChatGPT到农业大模型：大模型及其在农业领域的前沿应用介绍》 中国农业大学.
 
 ## Program Committee & Reviewer Service
-- ***Program Committee Member*** of AAAI'25-26, CVPR2026, WWW2026, ICRA2026
+- ***Program Committee Member*** of AAAI'25-26, CVPR2026, WWW2026, ICRA2026，ECCV2026
 - ***Reviewer*** of IEEE TNNLS, IEEE TCSVT, IEEE TMM, IEEE TIST, IEEE TII, CVPR, WWW, ACM MM.

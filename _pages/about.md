@@ -131,6 +131,13 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - *2018.09 – 2025.06*, Ph.D. candidate (Combined Master and Ph.D. Program) at School of Information Science and Technology, Beijing University of Technology, Beijing, China. (Master’s Supervisor: [Prof. Yanfeng Sun](https://sist.bjut.edu.cn/info/1443/4066.htm); Ph.D. Supervisor: [Prof. Yongli Hu](https://sist.bjut.edu.cn/info/1443/4095.htm))
 - *2014.09 - 2018.06*, B.E. at Automation, Henan Polytechnic University, Henan, China. 
 
+# 💼 Research Projects & Grants
+
+<span class='anchor' id='-educations'></span>
+
+- （1）中国博士后科学基金会，面上项目，00058002202503，面向多模态长文档的鲁棒表征与可信推理方法研究，2025-12 至 2027-12，8万，在研，主持
+- （2）北京市自然科学基金委员会，北京市自然科学基金青年项目，面向真实场景的多模态长文档鲁棒表征与可信推理方法研究，2026-01 至 2027-12，20万，在研，主持
+  
 # 🎤 Lecture, Talk, and Services
 <span class='anchor' id='-social'></span>
 

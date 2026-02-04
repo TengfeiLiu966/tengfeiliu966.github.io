@@ -29,6 +29,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 - *2026.02* : &nbsp; Our paper "Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering" has been accepted by ICLR 2026!
+- *2026.01* : &nbsp; Our paper "CASE2KNOWLEDGE: STRUCTURED KNOWLEDGE-INFUSED PROMPTING FOR FAITHFUL RADIOLOGY REPORT GENERATION" has been accepted by ICASSP 2026!
 - *2025.11* : &nbsp; Our paper "MARE: Multimodal Analogical Reasoning for Disease Evolution-Aware Radiology Report Generation" has been accepted by AAAI 2026!
 - *2025.07* : &nbsp; Our paper "Towards Efficient Power Scene Detection via Topology-preserved Knowledge Distillation" has been accepted by IEEE TII!
 - *2025.03* : &nbsp; Our paper "Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification" has been accepted by IEEE TMM!

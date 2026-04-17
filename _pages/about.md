@@ -28,8 +28,10 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+- *2026.04* : &nbsp; Our paper "Human-Like Multi-Modal Fake News Detection via Reflective Summarization and Large–Small Model Collaboration" has been accepted by TNNLS 2026!
 - *2026.02* : &nbsp; Our paper "BiOTPrompt: Bidirectional Optimal Transport Guided Prompting for Disease Evolution-aware Radiology Report Generation" has been accepted by CVPR 2026!
 - *2026.02* : &nbsp; Our paper "Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering" has been accepted by ICLR 2026!
+- *2026.02* : &nbsp; Our paper "M3Former: Memory-guided Multi-modal Generation and Adaptive Mixture Reasoning for Incomplete-Modality Crisis Event Detection" has been accepted by TCSVT 2026!
 - *2026.01* : &nbsp; Our paper "CASE2KNOWLEDGE: STRUCTURED KNOWLEDGE-INFUSED PROMPTING FOR FAITHFUL RADIOLOGY REPORT GENERATION" has been accepted by ICASSP 2026!
 - *2025.11* : &nbsp; Our paper "MARE: Multimodal Analogical Reasoning for Disease Evolution-Aware Radiology Report Generation" has been accepted by AAAI 2026!
 - *2025.07* : &nbsp; Our paper "Towards Efficient Power Scene Detection via Topology-preserved Knowledge Distillation" has been accepted by IEEE TII!
@@ -71,7 +73,12 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+## 2026
 
+- ```AAAI 2026``` Qingqing Gao, ***Tengfei Liu***, Boyue Wang, Xiaoyan Li, Xiaodan Zhang, Zhongfan Sun, Baocai Yin, Zhaohui Liu. ***Multimodal Analogical Reasoning based Disease Evolution Modeling for Longitudinal Radiology Report Generation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2026. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39262)
+
+- ```IEEE TCSVT 2026``` Chenyang Lu, Boyue Wang, ***Tengfei Liu***, Tian Tian, Yongli Hu and Baocai Yin. ***M3Former: Memory-guided Multi-modal Generation and Adaptive Mixture Reasoning for Incomplete-Modality Crisis Event Detection***. IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT'26), 2026. [Paper](https://ieeexplore.ieee.org/abstract/document/11397714).
+- 
 ## 2025
 
 - ```IEEE TII2025``` Junfei Yi, ***Tengfei Liu***, Jianxu Mao, Yaonan Wang, Hui Zhang, He Xie, Hang Zhong, Xiaojun Chang. ***Toward Efficient Power Scene Detection via Topology-Preserved Knowledge Distillation***. IEEE Transactions on Industrial Informatics (IEEE TII'25), 2025. [Paper](https://ieeexplore.ieee.org/abstract/document/11123553)

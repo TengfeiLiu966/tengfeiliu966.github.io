@@ -28,6 +28,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+- *2026.05* : &nbsp; Our paper " REFD: Relation-aware Entity Feature Decoupling for Multimodal Knowledge GraphCompletion" has been accepted by TMM 2026!
 - *2026.05* : &nbsp; Our paper "GeoEvo: Identity-Aware Potential Game with Geometric Evolution for Personalized Multimodal Federated Learning" has been accepted by ICML 2026!
 - *2026.05* : &nbsp; Our paper "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion" has been accepted by ICML 2026!
 - *2026.04* : &nbsp; Our paper "Human-Like Multi-Modal Fake News Detection via Reflective Summarization and Large–Small Model Collaboration" has been accepted by TNNLS 2026!

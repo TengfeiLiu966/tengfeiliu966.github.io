@@ -138,7 +138,8 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 <span class='anchor' id='-educations'></span>
 
-- *2025.07 - (now)*, Lecturer at School of Information Science and Technology, Beijing University of Technology, Beijing, China. 
+- *2026.04 - (now)*, Lecturer at School of Artificial Intelligence, Beijing University of Technology, Beijing, China. 
+- *2025.07 - 2026.03*, Lecturer at School of Information Science and Technology, Beijing University of Technology, Beijing, China. 
 - *2024.02 - 2025.02*, Visiting Student at University of Technology Sydney (UTS), Sydney, Australia. (Supervisor: [Prof. Xiaojun Chang](https://ieeexplore.ieee.org/author/37085779024))
 - *2018.09 – 2025.06*, Ph.D. candidate (Combined Master and Ph.D. Program) at School of Information Science and Technology, Beijing University of Technology, Beijing, China. (Master’s Supervisor: [Prof. Yanfeng Sun](https://sist.bjut.edu.cn/info/1443/4066.htm); Ph.D. Supervisor: [Prof. Yongli Hu](https://sist.bjut.edu.cn/info/1443/4095.htm))
 - *2014.09 - 2018.06*, B.E. at Automation, Henan Polytechnic University, Henan, China. 
@@ -149,7 +150,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - 中国博士后科学基金会，面上项目，00058002202503，面向多模态长文档的鲁棒表征与可信推理方法研究，2025-12 至 2027-12，8万，在研，主持
 - 北京市自然科学基金委员会，北京市自然科学基金青年项目，面向真实场景的多模态长文档鲁棒表征与可信推理方法研究，2026-01 至 2027-12，20万，在研，主持
-- 企业技术委托项目，视频数据集标注与语义知识库构建，2025-2026，主持；
+- 企业技术委托项目，视频数据集标注与语义知识库构建，2025-2026，65万，在研，主持；
 - 科技创新2030重大项目，异质信息协同和多重知识表达的可解释连续学习，2021-2026，参与
 - 国家自然科学基金联合基金重点项目，面向社会媒体信息的视觉协同计算与聚焦推理，2022-2026，参与
 - 北京市自然科学基金面上项目，知识强化的开放场景图像识别，2026-2028，参与
@@ -163,5 +164,5 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - *2024.06*, 《从ChatGPT到农业大模型：大模型及其在农业领域的前沿应用介绍》 中国农业大学.
 
 ## Program Committee & Reviewer Service
-- ***Program Committee Member*** of AAAI'25-26, CVPR2026, WWW2026, ICRA2026，ECCV2026, ACM MM2026,
-- ***Reviewer*** of IEEE TNNLS, IEEE TCSVT, IEEE TMM, IEEE TIST, IEEE TII, CVPR, WWW, ACM MM.
+- ***Program Committee Member*** of AAAI'25-26, CVPR2026, WWW2026, ICRA2026，ECCV2026, ACM MM2026
+- ***Reviewer*** of IEEE TNNLS, IEEE TCSVT, IEEE TMM, IEEE TIST, IEEE TII, CVPR, WWW, ACM MM，FCS.

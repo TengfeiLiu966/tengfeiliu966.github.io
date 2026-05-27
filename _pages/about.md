@@ -37,9 +37,6 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - *2026.02* : &nbsp; Our paper "M3Former: Memory-guided Multi-modal Generation and Adaptive Mixture Reasoning for Incomplete-Modality Crisis Event Detection" has been accepted by TCSVT 2026!
 - *2026.01* : &nbsp; Our paper "CASE2KNOWLEDGE: STRUCTURED KNOWLEDGE-INFUSED PROMPTING FOR FAITHFUL RADIOLOGY REPORT GENERATION" has been accepted by ICASSP 2026!
 - *2025.11* : &nbsp; Our paper "MARE: Multimodal Analogical Reasoning for Disease Evolution-Aware Radiology Report Generation" has been accepted by AAAI 2026!
-- *2025.07* : &nbsp; Our paper "Towards Efficient Power Scene Detection via Topology-preserved Knowledge Distillation" has been accepted by IEEE TII!
-- *2025.03* : &nbsp; Our paper "Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification" has been accepted by IEEE TMM!
-- *2025.01* : &nbsp; Our paper "Tackling Real-world Complexity: Hierarchical Modeling and Dynamic Prompting for Multimodal Long Document Classification" has been accepted by IEEE TCSVT!
 - *2025.01* : &nbsp; Our dataset "[FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark (version 1.1.0)](https://physionet.org/content/ffa-ir-medical-report/1.1.0/) has been published on the platform of PhysioNet.’’ 
 <!-- - *2025.04*: &nbsp; Congratulations to [Qika](https://qikalin.github.io/)!, our co-worked study "Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA" has been accepted by IEEE TIP! -->
 <!-- - *2025.03*: &nbsp; I have been nominated as an associate editor of the [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing). -->
@@ -78,6 +75,10 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 ## 2026
 
+- ```TNNLS 2026``` Boyue Wang, Yihan Gao, ***Tengfei Liu***, Junbin Gao, Guangchao Wu, Yongli Hu, Baocai Yin. ***Human-Like Multi-Modal Fake News Detection via Reflective Summarization and Large–Small Model Collaboration***. IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS'26), 2026. [Paper](https://ieeexplore.ieee.org/abstract/document/11517580)
+
+- ```IEEE TCSVT 2026``` Chenyang Lu, Boyue Wang, ***Tengfei Liu***, Tian Tian, Yongli Hu, Baocai Yin. ***M3Former: Memory-guided Multi-modal Generation and Adaptive Mixture Reasoning for Incomplete-Modality Crisis Event Detection***. IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT'26), 2026. [Paper](https://ieeexplore.ieee.org/abstract/document/11397714).
+  
 - ```AAAI 2026``` Qingqing Gao, ***Tengfei Liu***, Boyue Wang, Xiaoyan Li, Xiaodan Zhang, Zhongfan Sun, Baocai Yin, Zhaohui Liu. ***Multimodal Analogical Reasoning based Disease Evolution Modeling for Longitudinal Radiology Report Generation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2026. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39262)
 
 - ```IEEE TCSVT 2026``` Chenyang Lu, Boyue Wang, ***Tengfei Liu***, Tian Tian, Yongli Hu and Baocai Yin. ***M3Former: Memory-guided Multi-modal Generation and Adaptive Mixture Reasoning for Incomplete-Modality Crisis Event Detection***. IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT'26), 2026. [Paper](https://ieeexplore.ieee.org/abstract/document/11397714).

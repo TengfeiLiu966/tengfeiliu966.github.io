@@ -32,6 +32,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - *2026.05* : &nbsp; Our paper "GeoEvo: Identity-Aware Potential Game with Geometric Evolution for Personalized Multimodal Federated Learning" has been accepted by ICML 2026!
 - *2026.05* : &nbsp; Our paper "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion" has been accepted by ICML 2026!
 - *2026.04* : &nbsp; Our paper "Human-Like Multi-Modal Fake News Detection via Reflective Summarization and Large–Small Model Collaboration" has been accepted by TNNLS 2026!
+- *2026.03* : &nbsp; Our paper "CoreKD: A Context-Aware Local Region Structural Contrastive Knowledge Distillation Framework for Object Detection" has been accepted by TNNLS 2026!
 - *2026.02* : &nbsp; Our paper "BiOTPrompt: Bidirectional Optimal Transport Guided Prompting for Disease Evolution-aware Radiology Report Generation" has been accepted by CVPR 2026!
 - *2026.02* : &nbsp; Our paper "Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering" has been accepted by ICLR 2026!
 - *2026.02* : &nbsp; Our paper "M3Former: Memory-guided Multi-modal Generation and Adaptive Mixture Reasoning for Incomplete-Modality Crisis Event Detection" has been accepted by TCSVT 2026!
@@ -77,6 +78,8 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ```TNNLS 2026``` Boyue Wang, Yihan Gao, ***Tengfei Liu***, Junbin Gao, Guangchao Wu, Yongli Hu, Baocai Yin. ***Human-Like Multi-Modal Fake News Detection via Reflective Summarization and Large–Small Model Collaboration***. IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS'26), 2026. [Paper](https://ieeexplore.ieee.org/abstract/document/11517580)
 
+- ```TNNLS 2026``` Junfei Yi, Jianxu Mao, Yaonan Wang, Tengfei Liu, Mingjie Li, Kai Zeng, Hui Zhang, Xiaojun Chang. ***CoreKD: A Context-Aware Local Region Structural Contrastive Knowledge Distillation Framework for Object Detection***. IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS'26), 2026. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11436110)
+  
 - ```IEEE TCSVT 2026``` Chenyang Lu, Boyue Wang, ***Tengfei Liu***, Tian Tian, Yongli Hu, Baocai Yin. ***M3Former: Memory-guided Multi-modal Generation and Adaptive Mixture Reasoning for Incomplete-Modality Crisis Event Detection***. IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT'26), 2026. [Paper](https://ieeexplore.ieee.org/abstract/document/11397714).
   
 - ```AAAI 2026``` Qingqing Gao, ***Tengfei Liu***, Boyue Wang, Xiaoyan Li, Xiaodan Zhang, Zhongfan Sun, Baocai Yin, Zhaohui Liu. ***Multimodal Analogical Reasoning based Disease Evolution Modeling for Longitudinal Radiology Report Generation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2026. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39262)

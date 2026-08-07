@@ -28,7 +28,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
-- *2026.05* : &nbsp; Our paper " REFD: Relation-aware Entity Feature Decoupling for Multimodal Knowledge GraphCompletion" has been accepted by TMM 2026!
+- *2026.05* : &nbsp; 🎉 Our paper " REFD: Relation-aware Entity Feature Decoupling for Multimodal Knowledge GraphCompletion" has been accepted by TMM 2026!
 - *2026.05* : &nbsp; Our paper "GeoEvo: Identity-Aware Potential Game with Geometric Evolution for Personalized Multimodal Federated Learning" has been accepted by ICML 2026!
 - *2026.05* : &nbsp; Our paper "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion" has been accepted by ICML 2026!
 - *2026.04* : &nbsp; Our paper "Human-Like Multi-Modal Fake News Detection via Reflective Summarization and Large–Small Model Collaboration" has been accepted by TNNLS 2026!
@@ -38,25 +38,6 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - *2026.02* : &nbsp; Our paper "Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering" has been accepted by ICLR 2026!
 - *2026.02* : &nbsp; Our paper "M3Former: Memory-guided Multi-modal Generation and Adaptive Mixture Reasoning for Incomplete-Modality Crisis Event Detection" has been accepted by TCSVT 2026!
 - *2026.01* : &nbsp; Our paper "CASE2KNOWLEDGE: STRUCTURED KNOWLEDGE-INFUSED PROMPTING FOR FAITHFUL RADIOLOGY REPORT GENERATION" has been accepted by ICASSP 2026!
-
-<!-- - *2025.04*: &nbsp; Congratulations to [Qika](https://qikalin.github.io/)!, our co-worked study "Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA" has been accepted by IEEE TIP! -->
-<!-- - *2025.03*: &nbsp; I have been nominated as an associate editor of the [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing). -->
-<!-- - *2025.01*: &nbsp; I have been nominated as an assistant editorial board member of the [CAAI Transactions on Intelligent Systems](https://tis.hrbeu.edu.cn/Corp/3300.aspx). -->
-<!-- - *2025.01* : &nbsp; Congratulations to Yu Feng! our study PM-MOE has been accepted by WWW'25! -->
-<!-- - *2024.12*: &nbsp; I have been awarded by the First Prize of  Safety Science and Technology Advancement Award by China Association of Work Safety [(中国安全生产协会安全科学科技进步一等奖)](https://www.china-safety.org.cn/api/file/20241218/1869300991283826688.pdf). -->
-<!-- - *2024.12* : &nbsp; Congratulations to [Wenwen](https://faculty.cau.edu.cn/gww/), Xiao and Shuai. Three papers have been accepted by AAAI 2025! -->
-<!-- - *2024.11* : &nbsp; We have lunached a special issue on "Generative AI for Infornation Fusion" in [Information Fusion (IF:14.2)](https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion), co-editored with [Dr. Qika Lin](https://qikalin.github.io/), [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and [Dr. Jie Ma](https://gr.xjtu.edu.cn/en/web/jiema). -->
-<!-- - *2024.10* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper Text2NKG been accepted by NeurIPS'24! -->
-<!-- - *2024.10* : &nbsp; We appreciate Zhipu AI and the Chinese Information Processing Society of China for their funding support to our research through the [SMP-Zhipu AI Large Model Interdisciplinary Fund](http://www.cips-smp.org:8090/archives/ping-shen-jie-guo-gong-shi). -->
-<!-- - *2024.09* : &nbsp; Congratulations to [Dan](https://zhangdan0602.github.io/)! The study of MCAP model has been accepted by ACM TOIS! -->
-<!-- - *2024.08* : &nbsp; I have been elected as an executive member of [CCF Expert Committee on Big Data](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TFBD/). -->
-<!-- - *2024.07* : &nbsp; Congratulations to Yu! our study CP-Prompt has been accepted by MM'24! -->
-<!-- - *2024.07* : &nbsp; Congratulations to Weibin for our outstanding work (RevGNN) been accepted by ACM TOIS! -->
-<!-- - *2024.05* : &nbsp; Congratulations to [Fanjin](https://zfjsail.github.io/) and [Haoran](https://lhrlab.github.io/) for our outstanding work (OAG-Bench and ChatKBQA) been accepted by KDD'24 and ACL'24! -->
-<!-- - *2024.01* : &nbsp; I have been elected as an executive member of [CCF Data Governance Development Committee](https://www.ccf.org.cn/sjzlfzwyh/). -->
-<!-- - *2023.12*: &nbsp; I have joined as an editorial board member of the [Information Fusion](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board).  -->
-<!-- - *2023.10*: &nbsp; We have organized a special issue entitiled "Applied Artificial Intelligence Approach: Intelligent Data Processing and Mining with Online Behaviors" on [Electronics](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7), and we warmly welcome submissions! -->
-<!-- - *2023.09*: &nbsp; As an assistant professor, I joined in the School of Computer Science, Beijing University of Posts and Telecommunications, and worked closely with <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/index.htm'>Prof. Meina Song</a>,  <a href='https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/index.htm'>Prof. Zhonghong Ou</a>, and  <a href='https://teacher.bupt.edu.cn/ehaihong/zh_CN/index.htm'>Prof. Haihong E</a>.  -->
 
 # 📚 Publications 
 <span class='anchor' id='-publications'></span>

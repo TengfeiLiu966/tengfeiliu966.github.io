@@ -23,6 +23,14 @@ I am currently a Lecturer at the School of Artificial Intelligence, Beijing Univ
 
 刘腾飞，北京工业大学人工智能学院讲师。2025年6月于北京工业大学获得博士学位，博士期间师从[胡永利教授](https://ieeexplore.ieee.org/author/37420507000)，并在[尹宝才教授-国家杰青](https://www.bjut.edu.cn/info/1059/1568.htm)团队开展科研工作。2024年2月至2025年2月，赴澳大利亚悉尼科技大学（University of Technology Sydney, UTS）ReLER实验室联合培养一年，师从[常晓军教授-长江学者](https://www.xiaojun.ai/)和[Hanyu Gu教授](https://profiles.uts.edu.au/Hanyu.Gu)。研究方向主要包括长文档智能处理、多模态信息融合、医疗影像智能分析、可信大模型与多智能体协同等。目前已发表学术论文20余篇，其中以第一作者/通讯作者发表学术论文14篇，相关成果发表于IEEE TNNLS/TMM/TCSVT/TASLP/TKDD、Neural Networks等国际期刊，以及 CVPR、AAAI等CCF-A类国际会议。主持国家资助博士后研究人员计划C档、中国博士后科学基金面上项目、北京市自然科学基金青年项目等科研项目，并作为研究骨干参与科技创新2030重大项目、国家自然科学基金联合基金重点项目**等多项国家级科研项目。曾获博士研究生国家奖学金、CSC国家公派留学奖学金、校级优秀毕业生、百佳毕业生等荣誉。
 
+- Personal Website: [北京工业大学人工智能学院个人主页](https://znxy.bjut.edu.cn/info/1577/1087.htm)
+
+- Email: tfliu@bjut.edu.cn, Tengfei.Liu0821@outlook.com, 18811038594@163.com
+
+- WeChat: 
+  <br>
+  <img src="/images/wechat.jpg" width="180">
+
 <!--My research interests include Multimodal LLM, Radiology Report Generation, Long Document Understanding, Zero-shot Learning, etc.
 For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=Xt4l3tEAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.-->
 

@@ -31,14 +31,14 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - *2026.07* : &nbsp; 🎉 获批国家资助博士后研究人员计划C档资助!
 - *2026.05* : &nbsp; 🎉 Our paper "REFD: Relation-aware Entity Feature Decoupling for Multimodal Knowledge GraphCompletion" has been accepted by IEEE TMM!
 - *2026.05* : &nbsp; 🎉 Our paper "[GeoEvo: Identity-Aware Potential Game with Geometric Evolution for Personalized Multimodal Federated Learning](https://icml.cc/virtual/2026/poster/63496)" has been accepted by ICML 2026!
-- *2026.05* : &nbsp; 🎉 Our paper "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion" has been accepted by ICML 2026!
-- *2026.04* : &nbsp; 🎉 Our paper "Human-Like Multi-Modal Fake News Detection via Reflective Summarization and Large–Small Model Collaboration" has been accepted by IEEE TNNLS!
-- *2026.03* : &nbsp; 🎉 Our paper "Distilling Object Detectors via Monte Carlo Dropout" has been accepted by IEEE TPAMI!
-- *2026.03* : &nbsp; 🎉 Our paper "CoreKD: A Context-Aware Local Region Structural Contrastive Knowledge Distillation Framework for Object Detection" has been accepted by IEEE TNNLS!
-- *2026.02* : &nbsp; 🎉 Our paper "BiOTPrompt: Bidirectional Optimal Transport Guided Prompting for Disease Evolution-aware Radiology Report Generation" has been accepted by CVPR 2026!
-- *2026.02* : &nbsp; 🎉 Our paper "Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering" has been accepted by ICLR 2026!
-- *2026.02* : &nbsp; 🎉 Our paper "M3Former: Memory-guided Multi-modal Generation and Adaptive Mixture Reasoning for Incomplete-Modality Crisis Event Detection" has been accepted by IEEE TCSVT!
-- *2026.01* : &nbsp; 🎉 Our paper "CASE2KNOWLEDGE: STRUCTURED KNOWLEDGE-INFUSED PROMPTING FOR FAITHFUL RADIOLOGY REPORT GENERATION" has been accepted by ICASSP 2026!
+- *2026.05* : &nbsp; 🎉 Our paper "[Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion](https://icml.cc/virtual/2026/poster/63342)" has been accepted by ICML 2026!
+- *2026.04* : &nbsp; 🎉 Our paper "[Human-Like Multi-Modal Fake News Detection via Reflective Summarization and Large–Small Model Collaboration](https://ieeexplore.ieee.org/document/11517580)" has been accepted by IEEE TNNLS!
+- *2026.03* : &nbsp; 🎉 Our paper "[Distilling Object Detectors via Monte Carlo Dropout](https://ieeexplore.ieee.org/document/11440139)" has been accepted by IEEE TPAMI!
+- *2026.03* : &nbsp; 🎉 Our paper "[CoreKD: A Context-Aware Local Region Structural Contrastive Knowledge Distillation Framework for Object Detection](https://ieeexplore.ieee.org/document/11436110)" has been accepted by IEEE TNNLS!
+- *2026.02* : &nbsp; 🎉 Our paper "[BiOTPrompt: Bidirectional Optimal Transport Guided Prompting for Disease Evolution-aware Radiology Report Generation](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_BiOTPrompt_Bidirectional_Optimal_Transport_Guided_Prompting_for_Disease_Evolution-aware_Radiology_CVPR_2026_paper.pdf)" has been accepted by CVPR 2026!
+- *2026.02* : &nbsp; 🎉 Our paper "[Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering](https://chatpaper.com/fr/chatpaper/paper/248149)" has been accepted by ICLR 2026!
+- *2026.02* : &nbsp; 🎉 Our paper "[M3Former: Memory-guided Multi-modal Generation and Adaptive Mixture Reasoning for Incomplete-Modality Crisis Event Detection](https://ieeexplore.ieee.org/abstract/document/11397714)" has been accepted by IEEE TCSVT!
+- *2026.01* : &nbsp; 🎉 Our paper "[Case2Knowledge: Structured Knowledge-Infused Prompting for Faithful Radiology Report Generation](https://ieeexplore.ieee.org/document/11464942)" has been accepted by ICASSP 2026!
 - *2025.12* : &nbsp; 🎉 获批北京市自然科学基金青年项目资助!
 - *2025.11* : &nbsp; 🎉 获批中国博士后科学基金第78批面上资助!
 

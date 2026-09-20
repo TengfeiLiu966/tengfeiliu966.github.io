@@ -161,6 +161,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 <span class='anchor' id='-social'></span>
 
 ## Lecture & Talk
+- *2026.08*, 《人工智能基础概念、发展趋势与应用展望》 中关村高科技产业促进中心.
 - *2025.12*, 《从概念到应用：人工智能技术浅析与团队成果汇报》 中国农业科学院.
 - *2024.06*, 《从ChatGPT到农业大模型：大模型及其在农业领域的前沿应用介绍》 中国农业大学.
 
